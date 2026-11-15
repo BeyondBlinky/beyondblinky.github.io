@@ -1,0 +1,12 @@
+site_name: Beyond Blinky
+site_url: https://beyondblinky.com
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Theory:
+      - Binary numbers: theory/binary-numbers.md
+  - Labs:
+      - Manual switch LED: labs/from-blinky-to-manual.md
