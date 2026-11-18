@@ -5,6 +5,7 @@ tags:
   - binary
   - number-systems
   - computing
+  - theory
 ---
 
 # How Binary Numbers Work
